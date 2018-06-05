@@ -1,0 +1,20 @@
+git init 
+-> to create a new local repository
+
+git config --global user.name "username"
+->to configure the username of your github account
+
+git config --global user.email "email id" 
+->to configure the email address to be used
+
+git status 
+->list of files changed and those you still need to add or commit
+
+git add <filename> 
+->to add a particular file
+
+git add . 
+->to add all files present
+ 
+git commit -m "commit message" 
+->to commit the changes
